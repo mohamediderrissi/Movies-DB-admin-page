@@ -2,12 +2,12 @@
 
 ## Overview:
 
-This project is an example of a Movie Dashbord admin. We can de the following: 
+This project is an example of a Movie Dashbord admin. We can do the following: 
 
 1. Add a Movie with validations:
-..* Movie's title must be 30 characters or less !
-..*	Movie's storyline must be 100 characters at least !
-..*	Date validation
+	* Movie's title must be 30 characters or less !
+	* Movie's storyline must be 100 characters at least !
+	* Date validation
 
 2. Look for all movie or search a specific one
 
@@ -17,7 +17,8 @@ This project is an example of a Movie Dashbord admin. We can de the following:
 The project has two separted parts :
 * Backend buit with ExpressJs
 * Frontend build with ReactJs
-* No SQL DataBase with mongoose
+* NoSQL DataBase with mongoose
+* The frontend and the backend, each one has a sperate branch
 
 ### Backend Architecture:
 ![alt text](https://raw.githubusercontent.com/mohamediderrissi/Movies-DB-admin-page/main/backend_architecture.png "Backend Architecture")
